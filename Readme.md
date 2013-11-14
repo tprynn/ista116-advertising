@@ -1,6 +1,8 @@
 Introduction
 ========================
-This package of bash and R scripts performs some simple p-value testing on "bundles" of Google Adwords terms, with the end goal of answering the question: "Do similar search terms sell for similar prices?"  Spoiler: yes.  Created for ISTA 116 final project at the University of Arizona.  This project uses data from the [open advertising dataset](https://code.google.com/p/open-advertising-dataset/).
+This package of bash and R scripts performs some simple p-value testing on "bundles" of Google Adwords terms, with the end goal of answering the question: "Do similar search terms sell for similar prices?"  Spoiler: yes.  Analysis and details are in Paper.pdf.
+
+Created for ISTA 116 final project at the University of Arizona.  This project uses data from the [open advertising dataset](https://code.google.com/p/open-advertising-dataset/).
 
 Workflow
 ========================
